@@ -1,0 +1,14 @@
+benchmark,N,sequence,target_contacts,target_hp_energy,qubo_manifest,ground_fold_folder,final_command_file
+20merA,20,HPHPPHHPHPPHPHHPPHPH,9,-9,results/qubos/final_qubo_manifest.csv,results/ground_folds/20merA,results/ground_folds/20merA/command_relative.txt
+20merB,20,HHHPPHPHPHPPHPHPHPPH,10,-10,results/qubos/final_qubo_manifest.csv,results/ground_folds/20merB,results/ground_folds/20merB/command_relative.txt
+24mer,24,HHPPHPPHPPHPPHPPHPPHPPHH,9,-9,results/qubos/final_qubo_manifest.csv,results/ground_folds/24mer,results/ground_folds/24mer/command_relative.txt
+25mer,25,PPHPPHHPPPPHHPPPPHHPPPPHH,8,-8,results/qubos/final_qubo_manifest.csv,results/ground_folds/25mer,results/ground_folds/25mer/command_relative.txt
+36mer,36,PPPHHPPHHPPPPPHHHHHHHPPHHPPPPHHPPHPP,14,-14,results/qubos/final_qubo_manifest.csv,results/ground_folds/36mer,results/ground_folds/36mer/command_relative.txt
+48mer,48,PPHPPHHPPHHPPPPPHHHHHHHHHHPPPPPPHHPPHHPPHPPHHHHH,23,-23,results/qubos/final_qubo_manifest.csv,results/ground_folds/48mer,results/ground_folds/48mer/command_relative.txt
+50mer,50,HHPHPHPHPHHHHPHPPPHPPPHPPPPHPPPHPPPHPHHHHPHPHPHPHH,21,-21,results/qubos/final_qubo_manifest.csv,results/ground_folds/50mer,results/ground_folds/50mer/command_relative.txt
+60mer,60,PPHHHPHHHHHHHHPPPHHHHHHHHHHPHPPPHHHHHHHHHHHHPPPPHHHHHHPHHPHP,36,-36,results/qubos/final_qubo_manifest.csv,results/ground_folds/60mer,results/ground_folds/60mer/command_relative.txt
+64mer,64,HHHHHHHHHHHHPHPHPPHHPPHHPPHPPHHPPHHPPHPPHHPPHHPPHPHPHHHHHHHHHHHH,42,-42,results/qubos/final_qubo_manifest.csv,results/ground_folds/64mer,results/ground_folds/64mer/command_relative.txt
+85mer,85,HHHHPPPPHHHHHHHHHHHHPPPPPPHHHHHHHHHHHHPPPHHHHHHHHHHHHPPPHHHHHHHHHHHHPPPHPPHHPPHHPPHPH,53,-53,results/qubos/final_qubo_manifest.csv,results/ground_folds/85mer,results/ground_folds/85mer/command_relative.txt
+100merA,100,PPPPPPHPHHPPPPPHHHPHHHHHPHHPPPPHHPPHHPHHHHHPHHHHHHHHHHPHHPHHHHHHHPPPPPPPPPPPHHHHHHHPPHPHHHPPPPPPHPHH,48,-48,results/qubos/final_qubo_manifest.csv,results/ground_folds/100merA,results/ground_folds/100merA/command_relative.txt
+100merB,100,PPPHHPPHHHHPPHHHPHHPHHPHHHHPPPPPPPPHHHHHHPPHHHHHHPPPPPPPPPHPHHPHHHHHHHHHHHPPHHHPHHPHPPHPHHHPPPPPPHHH,50,-50,results/qubos/final_qubo_manifest.csv,results/ground_folds/100merB,results/ground_folds/100merB/command_relative.txt
+

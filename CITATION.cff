@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript and this repository."
+title: "RB-Full HP Folding Reproducibility Package"
+authors:
+  - family-names: "Alam"
+    given-names: "Md Mohaimenul"
+  - family-names: "Onizawa"
+    given-names: "Naoya"
+  - family-names: "Hanyu"
+    given-names: "Takahiro"
+year: 2026
+repository-code: "https://github.com/OWNER/rb-full-hp-folding-repro"
+license: "MIT"

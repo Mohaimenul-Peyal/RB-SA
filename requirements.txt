@@ -1,0 +1,7 @@
+﻿numpy>=1.23
+numba>=0.58
+matplotlib>=3.7
+
+
+
+

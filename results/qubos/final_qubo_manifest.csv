@@ -1,0 +1,14 @@
+benchmark,N,target_contacts,local_qubo,L,variables,hp_reward,lambda_onehot,lambda_site,lambda_chain,source_size_mb,repository_policy
+20merA,20,9,runs/20merA/local/Final_run/fix7_pairwise_fresh_qubo/qubos/20merA_pairwise_L6_hp1p0.json,6,720,-1.0,324.0,324.0,324.0,5.24,regenerate_or_release_asset
+20merB,20,10,runs/20merB/local/Final_run/fix7_pairwise_fresh_qubo/qubos/20merB_pairwise_L6_hp1p0.json,6,720,-1.0,324.0,324.0,324.0,5.24,regenerate_or_release_asset
+24mer,24,9,runs/24mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/24mer_pairwise_L6_hp1p0.json,6,864,-1.0,324.0,324.0,324.0,6.36,regenerate_or_release_asset
+25mer,25,8,runs/25mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/25mer_pairwise_L7_hp1p0.json,7,1225,-1.0,288.0,288.0,288.0,11.43,regenerate_or_release_asset
+36mer,36,14,runs/36mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/36mer_pairwise_L8_hp1p4.json,8,2304,-1.4,360.0,360.0,360.0,31.02,regenerate_or_release_asset
+48mer,48,23,runs/48mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/48mer_pairwise_L11_hp1p4.json,11,5808,-1.4,620.0,620.0,620.0,174.25,regenerate_or_release_asset
+50mer,50,21,runs/50mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/50mer_pairwise_L11_hp3p2.json,11,6050,-3.2,300.0,300.0,300.0,151.63,regenerate_or_release_asset
+60mer,60,36,runs/60mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/60mer_pairwise_L9_hp1p4.json,9,4860,-1.4,2116.8,2116.8,2116.8,114.14,regenerate_or_release_asset
+64mer,64,42,runs/64mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/64mer_pairwise_L10_hp2p5.json,10,6400,-2.5,500.0,500.0,500.0,159.74,regenerate_or_release_asset
+85mer,85,53,runs/85mer/local/Final_run/fix7_istrail_long_warm_budget/qubos/85mer_pairwise_L12_hp3p0.json,12,12240,-3.0,600.0,600.0,600.0,448.24,regenerate_or_release_asset
+100merA,100,48,runs/100merA/local/Final_run/fix7_istrail_100mer_L13_target_refine/qubos/100merA_pairwise_L13_hp4p0.json,13,16900,-4.0,650.0,650.0,650.0,699.27,regenerate_or_release_asset
+100merB,100,50,runs/100merB/local/Final_run/fix7_istrail_100mer_L13_target_refine/qubos/100merB_pairwise_L13_hp4p0.json,13,16900,-4.0,650.0,650.0,650.0,704.31,regenerate_or_release_asset
+

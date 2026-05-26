@@ -1,0 +1,7 @@
+﻿python "src\HP_ssa_manybody_parallel_runner_cpu_fast_passthru.py" --ising "runs\100merB\local\Final_run\fix7_istrail_100mer_L13_target_refine\qubos\100merB_pairwise_L13_hp4p0.json" --solver_script "src\HP_ssa_manybody_ising_cpu_numba_saw_pivot_fix7_contactguided.py" --total_trials 768 --workers 16 --steps 3000000 --t_init 22.0 --t_final 0.00045 --seed 960100202 --device cpu --dtype float64 --move_mode residue --block_size 0 --reheat_every 28000 --reheat_factor 2.8 --outdir "runs\100merB\local\Final_run\fix7_istrail_100mer_L13_target_refine\iter02_L13_hp4_warm768_3M_16w_retry" --reseed_each_trial --target_contacts 50 --stop_on_target --poll_interval 4.0 --warm_start_best --best_t_scale 1.55 -- --pivot_prob 0.50 --pivot_max_tail 0 --pull_prob 0.11 --reptation_prob 0.12 --regrow_prob 0.06 --frag_regrow_prob 0.22 --regrow_max_len 84 --init_mode seq_greedy --archive_size 48 --archive_min_hamming_frac 0.20 --archive_contact_slack 10 --contact_priority_best --contact_check_every 100 --contact_guided_accept --contact_bias 1.5 --contact_bias_final_frac 0.10 --contact_paving_weight 0.0015 --qubo_polish_frac 0.12 --warm_start_prob 0.65 --warm_start_min_contacts 46 --warm_start_file "results\ground_folds\100merB\warm_start_best.json"
+
+
+
+
+
+

@@ -143,10 +143,6 @@ annealing moves:
 The method contribution is the integration of these HP-specific feasible-chain
 mechanisms inside a reproducible residue-block QUBO-guided annealing workflow.
 
-## Before Publishing
-
-No open-source license has been selected yet. Choose a license and replace
-`LICENSE_NOT_SELECTED.md` before making the repository public.
 
 
 

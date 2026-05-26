@@ -1,0 +1,17 @@
+﻿name,N,sequence,target_contacts,target_hp_energy,role,local_qubo
+20merA,20,HPHPPHHPHPPHPHHPPHPH,9,-9,istrail,runs/20merA/local/Final_run/fix7_pairwise_fresh_qubo/qubos/20merA_pairwise_L6_hp1p0.json
+20merB,20,HHHPPHPHPHPPHPHPHPPH,10,-10,istrail,runs/20merB/local/Final_run/fix7_pairwise_fresh_qubo/qubos/20merB_pairwise_L6_hp1p0.json
+24mer,24,HHPPHPPHPPHPPHPPHPPHPPHH,9,-9,istrail,runs/24mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/24mer_pairwise_L6_hp1p0.json
+25mer,25,PPHPPHHPPPPHHPPPPHHPPPPHH,8,-8,istrail,runs/25mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/25mer_pairwise_L7_hp1p0.json
+36mer,36,PPPHHPPHHPPPPPHHHHHHHPPHHPPPPHHPPHPP,14,-14,istrail,runs/36mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/36mer_pairwise_L8_hp1p4.json
+48mer,48,PPHPPHHPPHHPPPPPHHHHHHHHHHPPPPPPHHPPHHPPHPPHHHHH,23,-23,istrail,runs/48mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/48mer_pairwise_L11_hp1p4.json
+50mer,50,HHPHPHPHPHHHHPHPPPHPPPHPPPPHPPPHPPPHPHHHHPHPHPHPHH,21,-21,istrail,runs/50mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/50mer_pairwise_L11_hp3p2.json
+60mer,60,PPHHHPHHHHHHHHPPPHHHHHHHHHHPHPPPHHHHHHHHHHHHPPPPHHHHHHPHHPHP,36,-36,istrail,runs/60mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/60mer_pairwise_L9_hp1p4.json
+64mer,64,HHHHHHHHHHHHPHPHPPHHPPHHPPHPPHHPPHHPPHPPHHPPHHPPHPHPHHHHHHHHHHHH,42,-42,istrail,runs/64mer/local/Final_run/fix7_pairwise_fresh_qubo/qubos/64mer_pairwise_L10_hp2p5.json
+85mer,85,HHHHPPPPHHHHHHHHHHHHPPPPPPHHHHHHHHHHHHPPPHHHHHHHHHHHHPPPHHHHHHHHHHHHPPPHPPHHPPHHPPHPH,53,-53,istrail,runs/85mer/local/Final_run/fix7_istrail_long_warm_budget/qubos/85mer_pairwise_L12_hp3p0.json
+100merA,100,PPPPPPHPHHPPPPPHHHPHHHHHPHHPPPPHHPPHHPHHHHHPHHHHHHHHHHPHHPHHHHHHHPPPPPPPPPPPHHHHHHHPPHPHHHPPPPPPHPHH,48,-48,istrail,runs/100merA/local/Final_run/fix7_istrail_100mer_L13_target_refine/qubos/100merA_pairwise_L13_hp4p0.json
+100merB,100,PPPHHPPHHHHPPHHHPHHPHHPHHHHPPPPPPPPHHHHHHPPHHHHHHPPPPPPPPPHPHHPHHHHHHHHHHHPPHHHPHHPHPPHPHHHPPPPPPHHH,50,-50,istrail,runs/100merB/local/Final_run/fix7_istrail_100mer_L13_target_refine/qubos/100merB_pairwise_L13_hp4p0.json
+
+
+
+
